@@ -9,10 +9,10 @@
   `sudo nano .env`
 
 И вставить вот такой код 
-  `POSTGRES_USER=Ваше имя от бд
-POSTGRES_PASSWORD=Ваш пароль от бд
-POSTGRES_DB=Ваше название для бд
-SECRET_KEY=секретный ключ`
+  `POSTGRES_USER=Ваше имя от бд`
+`POSTGRES_PASSWORD=Ваш пароль от бд`
+`POSTGRES_DB=Ваше название для бд`
+`SECRET_KEY=секретный ключ`
 
 После этого установить на машину docker и docker-compose
 `sudo apt-get update`
